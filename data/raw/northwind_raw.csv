@@ -1,0 +1,519 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductID,ProductName,Quantity,Price,LineTotal
+10248,1996-07-04,90,Wilman Kala,11,Queso Cabrales,12,21,252
+10248,1996-07-04,90,Wilman Kala,42,Singaporean Hokkien Fried Mee,10,14,140
+10248,1996-07-04,90,Wilman Kala,72,Mozzarella di Giovanni,5,34.8,174.0
+10249,1996-07-05,81,Tradição Hipermercados,14,Tofu,9,23.25,209.25
+10249,1996-07-05,81,Tradição Hipermercados,51,Manjimup Dried Apples,40,53,2120
+10250,1996-07-08,34,Hanari Carnes,41,Jack's New England Clam Chowder,10,9.65,96.5
+10250,1996-07-08,34,Hanari Carnes,51,Manjimup Dried Apples,35,53,1855
+10250,1996-07-08,34,Hanari Carnes,65,Louisiana Fiery Hot Pepper Sauce,15,21.05,315.75
+10251,1996-07-08,84,Victuailles en stock,22,Gustaf's Knäckebröd,6,21,126
+10251,1996-07-08,84,Victuailles en stock,57,Ravioli Angelo,15,19.5,292.5
+10251,1996-07-08,84,Victuailles en stock,65,Louisiana Fiery Hot Pepper Sauce,20,21.05,421.0
+10252,1996-07-09,76,Suprêmes délices,20,Sir Rodney's Marmalade,40,81,3240
+10252,1996-07-09,76,Suprêmes délices,33,Geitost,25,2.5,62.5
+10252,1996-07-09,76,Suprêmes délices,60,Camembert Pierrot,40,34,1360
+10253,1996-07-10,34,Hanari Carnes,31,Gorgonzola Telino,20,12.5,250.0
+10253,1996-07-10,34,Hanari Carnes,39,Chartreuse verte,42,18,756
+10253,1996-07-10,34,Hanari Carnes,49,Maxilaku,40,20,800
+10254,1996-07-11,14,Chop-suey Chinese,24,Guaraná Fantástica,15,4.5,67.5
+10254,1996-07-11,14,Chop-suey Chinese,55,Pâté chinois,21,24,504
+10254,1996-07-11,14,Chop-suey Chinese,74,Longlife Tofu,21,10,210
+10255,1996-07-12,68,Richter Supermarkt,2,Chang,20,19,380
+10255,1996-07-12,68,Richter Supermarkt,16,Pavlova,35,17.45,610.75
+10255,1996-07-12,68,Richter Supermarkt,36,Inlagd Sill,25,19,475
+10255,1996-07-12,68,Richter Supermarkt,59,Raclette Courdavault,30,55,1650
+10256,1996-07-15,88,Wellington Importadora,53,Perth Pasties,15,32.8,492.0
+10256,1996-07-15,88,Wellington Importadora,77,Original Frankfurter grüne Soße,12,13,156
+10257,1996-07-16,35,HILARIÓN-Abastos,27,Schoggi Schokolade,25,43.9,1097.5
+10257,1996-07-16,35,HILARIÓN-Abastos,39,Chartreuse verte,6,18,108
+10257,1996-07-16,35,HILARIÓN-Abastos,77,Original Frankfurter grüne Soße,15,13,195
+10258,1996-07-17,20,Ernst Handel,2,Chang,50,19,950
+10258,1996-07-17,20,Ernst Handel,5,Chef Anton's Gumbo Mix,65,21.35,1387.75
+10258,1996-07-17,20,Ernst Handel,32,Mascarpone Fabioli,6,32,192
+10259,1996-07-18,13,Centro comercial Moctezuma,21,Sir Rodney's Scones,10,10,100
+10259,1996-07-18,13,Centro comercial Moctezuma,37,Gravad lax,1,26,26
+10260,1996-07-19,55,Old World Delicatessen,41,Jack's New England Clam Chowder,16,9.65,154.4
+10260,1996-07-19,55,Old World Delicatessen,57,Ravioli Angelo,50,19.5,975.0
+10260,1996-07-19,55,Old World Delicatessen,62,Tarte au sucre,15,49.3,739.5
+10260,1996-07-19,55,Old World Delicatessen,70,Outback Lager,21,15,315
+10261,1996-07-19,61,Que Delícia,21,Sir Rodney's Scones,20,10,200
+10261,1996-07-19,61,Que Delícia,35,Steeleye Stout,20,18,360
+10262,1996-07-22,65,Rattlesnake Canyon Grocery,5,Chef Anton's Gumbo Mix,12,21.35,256.2
+10262,1996-07-22,65,Rattlesnake Canyon Grocery,7,Uncle Bob's Organic Dried Pears,15,30,450
+10262,1996-07-22,65,Rattlesnake Canyon Grocery,56,Gnocchi di nonna Alice,2,38,76
+10263,1996-07-23,20,Ernst Handel,16,Pavlova,60,17.45,1047.0
+10263,1996-07-23,20,Ernst Handel,24,Guaraná Fantástica,28,4.5,126.0
+10263,1996-07-23,20,Ernst Handel,30,Nord-Ost Matjeshering,60,25.89,1553.4
+10263,1996-07-23,20,Ernst Handel,74,Longlife Tofu,36,10,360
+10264,1996-07-24,24,Folk och fä HB,2,Chang,35,19,665
+10264,1996-07-24,24,Folk och fä HB,41,Jack's New England Clam Chowder,25,9.65,241.25
+10265,1996-07-25,7,Blondel père et fils,17,Alice Mutton,30,39,1170
+10265,1996-07-25,7,Blondel père et fils,70,Outback Lager,20,15,300
+10266,1996-07-26,87,Wartian Herkku,12,Queso Manchego La Pastora,12,38,456
+10267,1996-07-29,25,Frankenversand,40,Boston Crab Meat,50,18.4,920.0
+10267,1996-07-29,25,Frankenversand,59,Raclette Courdavault,70,55,3850
+10267,1996-07-29,25,Frankenversand,76,Lakkalikööri,15,18,270
+10268,1996-07-30,33,GROSELLA-Restaurante,29,Thüringer Rostbratwurst,10,123.79,1237.9
+10268,1996-07-30,33,GROSELLA-Restaurante,72,Mozzarella di Giovanni,4,34.8,139.2
+10269,1996-07-31,89,White Clover Markets,33,Geitost,60,2.5,150.0
+10269,1996-07-31,89,White Clover Markets,72,Mozzarella di Giovanni,20,34.8,696.0
+10270,1996-08-01,87,Wartian Herkku,36,Inlagd Sill,30,19,570
+10270,1996-08-01,87,Wartian Herkku,43,Ipoh Coffee,25,46,1150
+10271,1996-08-01,75,Split Rail Beer & Ale,33,Geitost,24,2.5,60.0
+10272,1996-08-02,65,Rattlesnake Canyon Grocery,20,Sir Rodney's Marmalade,6,81,486
+10272,1996-08-02,65,Rattlesnake Canyon Grocery,31,Gorgonzola Telino,40,12.5,500.0
+10272,1996-08-02,65,Rattlesnake Canyon Grocery,72,Mozzarella di Giovanni,24,34.8,835.2
+10273,1996-08-05,63,QUICK-Stop,10,Ikura,24,31,744
+10273,1996-08-05,63,QUICK-Stop,31,Gorgonzola Telino,15,12.5,187.5
+10273,1996-08-05,63,QUICK-Stop,33,Geitost,20,2.5,50.0
+10273,1996-08-05,63,QUICK-Stop,40,Boston Crab Meat,60,18.4,1104.0
+10273,1996-08-05,63,QUICK-Stop,76,Lakkalikööri,33,18,594
+10274,1996-08-06,85,Vins et alcools Chevalier,71,Fløtemysost,20,21.5,430.0
+10274,1996-08-06,85,Vins et alcools Chevalier,72,Mozzarella di Giovanni,7,34.8,243.6
+10275,1996-08-07,49,Magazzini Alimentari Riuniti,24,Guaraná Fantástica,12,4.5,54.0
+10275,1996-08-07,49,Magazzini Alimentari Riuniti,59,Raclette Courdavault,6,55,330
+10276,1996-08-08,80,Tortuga Restaurante,10,Ikura,15,31,465
+10276,1996-08-08,80,Tortuga Restaurante,13,Konbu,10,6,60
+10277,1996-08-09,52,Morgenstern Gesundkost,28,Rössle Sauerkraut,20,45.6,912.0
+10277,1996-08-09,52,Morgenstern Gesundkost,62,Tarte au sucre,12,49.3,591.6
+10278,1996-08-12,5,Berglunds snabbköp,44,Gula Malacca,16,19.45,311.2
+10278,1996-08-12,5,Berglunds snabbköp,59,Raclette Courdavault,15,55,825
+10278,1996-08-12,5,Berglunds snabbköp,63,Vegie-spread,8,43.9,351.2
+10278,1996-08-12,5,Berglunds snabbköp,73,Röd Kaviar,25,15,375
+10279,1996-08-13,44,Lehmanns Marktstand,17,Alice Mutton,15,39,585
+10280,1996-08-14,5,Berglunds snabbköp,24,Guaraná Fantástica,12,4.5,54.0
+10280,1996-08-14,5,Berglunds snabbköp,55,Pâté chinois,20,24,480
+10280,1996-08-14,5,Berglunds snabbköp,75,Rhönbräu Klosterbier,30,7.75,232.5
+10281,1996-08-14,69,Romero y tomillo,19,Teatime Chocolate Biscuits,1,9.2,9.2
+10281,1996-08-14,69,Romero y tomillo,24,Guaraná Fantástica,6,4.5,27.0
+10281,1996-08-14,69,Romero y tomillo,35,Steeleye Stout,4,18,72
+10282,1996-08-15,69,Romero y tomillo,30,Nord-Ost Matjeshering,6,25.89,155.34
+10282,1996-08-15,69,Romero y tomillo,57,Ravioli Angelo,2,19.5,39.0
+10283,1996-08-16,46,LILA-Supermercado,15,Genen Shouyu,20,15.5,310.0
+10283,1996-08-16,46,LILA-Supermercado,19,Teatime Chocolate Biscuits,18,9.2,165.6
+10283,1996-08-16,46,LILA-Supermercado,60,Camembert Pierrot,35,34,1190
+10283,1996-08-16,46,LILA-Supermercado,72,Mozzarella di Giovanni,3,34.8,104.4
+10284,1996-08-19,44,Lehmanns Marktstand,27,Schoggi Schokolade,15,43.9,658.5
+10284,1996-08-19,44,Lehmanns Marktstand,44,Gula Malacca,21,19.45,408.45
+10284,1996-08-19,44,Lehmanns Marktstand,60,Camembert Pierrot,20,34,680
+10284,1996-08-19,44,Lehmanns Marktstand,67,Laughing Lumberjack Lager,5,14,70
+10285,1996-08-20,63,QUICK-Stop,1,Chais,45,18,810
+10285,1996-08-20,63,QUICK-Stop,40,Boston Crab Meat,40,18.4,736.0
+10285,1996-08-20,63,QUICK-Stop,53,Perth Pasties,36,32.8,1180.8
+10286,1996-08-21,63,QUICK-Stop,35,Steeleye Stout,100,18,1800
+10286,1996-08-21,63,QUICK-Stop,62,Tarte au sucre,40,49.3,1972.0
+10287,1996-08-22,67,Ricardo Adocicados,16,Pavlova,40,17.45,698.0
+10287,1996-08-22,67,Ricardo Adocicados,34,Sasquatch Ale,20,14,280
+10287,1996-08-22,67,Ricardo Adocicados,46,Spegesild,15,12,180
+10288,1996-08-23,66,Reggiani Caseifici,54,Tourtière,10,7.45,74.5
+10288,1996-08-23,66,Reggiani Caseifici,68,Scottish Longbreads,3,12.5,37.5
+10289,1996-08-26,11,B''s Beverages,3,Aniseed Syrup,30,10,300
+10289,1996-08-26,11,B''s Beverages,64,Wimmers gute Semmelknödel,9,33.25,299.25
+10290,1996-08-27,15,Comércio Mineiro,5,Chef Anton's Gumbo Mix,20,21.35,427.0
+10290,1996-08-27,15,Comércio Mineiro,29,Thüringer Rostbratwurst,15,123.79,1856.85
+10290,1996-08-27,15,Comércio Mineiro,49,Maxilaku,15,20,300
+10290,1996-08-27,15,Comércio Mineiro,77,Original Frankfurter grüne Soße,10,13,130
+10291,1996-08-27,61,Que Delícia,13,Konbu,20,6,120
+10291,1996-08-27,61,Que Delícia,44,Gula Malacca,24,19.45,466.8
+10291,1996-08-27,61,Que Delícia,51,Manjimup Dried Apples,2,53,106
+10292,1996-08-28,81,Tradição Hipermercados,20,Sir Rodney's Marmalade,20,81,1620
+10293,1996-08-29,80,Tortuga Restaurante,18,Carnarvon Tigers,12,62.5,750.0
+10293,1996-08-29,80,Tortuga Restaurante,24,Guaraná Fantástica,10,4.5,45.0
+10293,1996-08-29,80,Tortuga Restaurante,63,Vegie-spread,5,43.9,219.5
+10293,1996-08-29,80,Tortuga Restaurante,75,Rhönbräu Klosterbier,6,7.75,46.5
+10294,1996-08-30,65,Rattlesnake Canyon Grocery,1,Chais,18,18,324
+10294,1996-08-30,65,Rattlesnake Canyon Grocery,17,Alice Mutton,15,39,585
+10294,1996-08-30,65,Rattlesnake Canyon Grocery,43,Ipoh Coffee,15,46,690
+10294,1996-08-30,65,Rattlesnake Canyon Grocery,60,Camembert Pierrot,21,34,714
+10294,1996-08-30,65,Rattlesnake Canyon Grocery,75,Rhönbräu Klosterbier,6,7.75,46.5
+10295,1996-09-02,85,Vins et alcools Chevalier,56,Gnocchi di nonna Alice,4,38,152
+10296,1996-09-03,46,LILA-Supermercado,11,Queso Cabrales,12,21,252
+10296,1996-09-03,46,LILA-Supermercado,16,Pavlova,30,17.45,523.5
+10296,1996-09-03,46,LILA-Supermercado,69,Gudbrandsdalsost,15,36,540
+10297,1996-09-04,7,Blondel père et fils,39,Chartreuse verte,60,18,1080
+10297,1996-09-04,7,Blondel père et fils,72,Mozzarella di Giovanni,20,34.8,696.0
+10298,1996-09-05,37,Hungry Owl All-Night Grocers,2,Chang,40,19,760
+10298,1996-09-05,37,Hungry Owl All-Night Grocers,36,Inlagd Sill,40,19,760
+10298,1996-09-05,37,Hungry Owl All-Night Grocers,59,Raclette Courdavault,30,55,1650
+10298,1996-09-05,37,Hungry Owl All-Night Grocers,62,Tarte au sucre,15,49.3,739.5
+10299,1996-09-06,67,Ricardo Adocicados,19,Teatime Chocolate Biscuits,15,9.2,138.0
+10299,1996-09-06,67,Ricardo Adocicados,70,Outback Lager,20,15,300
+10300,1996-09-09,49,Magazzini Alimentari Riuniti,66,Louisiana Hot Spiced Okra,30,17,510
+10300,1996-09-09,49,Magazzini Alimentari Riuniti,68,Scottish Longbreads,20,12.5,250.0
+10301,1996-09-09,86,Die Wandernde Kuh,40,Boston Crab Meat,10,18.4,184.0
+10301,1996-09-09,86,Die Wandernde Kuh,56,Gnocchi di nonna Alice,20,38,760
+10302,1996-09-10,76,Suprêmes délices,17,Alice Mutton,40,39,1560
+10302,1996-09-10,76,Suprêmes délices,28,Rössle Sauerkraut,28,45.6,1276.8
+10302,1996-09-10,76,Suprêmes délices,43,Ipoh Coffee,12,46,552
+10303,1996-09-11,30,Godos Cocina Típica,40,Boston Crab Meat,40,18.4,736.0
+10303,1996-09-11,30,Godos Cocina Típica,65,Louisiana Fiery Hot Pepper Sauce,30,21.05,631.5
+10303,1996-09-11,30,Godos Cocina Típica,68,Scottish Longbreads,15,12.5,187.5
+10304,1996-09-12,80,Tortuga Restaurante,49,Maxilaku,30,20,600
+10304,1996-09-12,80,Tortuga Restaurante,59,Raclette Courdavault,10,55,550
+10304,1996-09-12,80,Tortuga Restaurante,71,Fløtemysost,2,21.5,43.0
+10305,1996-09-13,55,Old World Delicatessen,18,Carnarvon Tigers,25,62.5,1562.5
+10305,1996-09-13,55,Old World Delicatessen,29,Thüringer Rostbratwurst,25,123.79,3094.75
+10305,1996-09-13,55,Old World Delicatessen,39,Chartreuse verte,30,18,540
+10306,1996-09-16,69,Romero y tomillo,30,Nord-Ost Matjeshering,10,25.89,258.9
+10306,1996-09-16,69,Romero y tomillo,53,Perth Pasties,10,32.8,328.0
+10306,1996-09-16,69,Romero y tomillo,54,Tourtière,5,7.45,37.25
+10307,1996-09-17,48,Lonesome Pine Restaurant,62,Tarte au sucre,10,49.3,493.0
+10307,1996-09-17,48,Lonesome Pine Restaurant,68,Scottish Longbreads,3,12.5,37.5
+10308,1996-09-18,2,Ana Trujillo Emparedados y helados,69,Gudbrandsdalsost,1,36,36
+10308,1996-09-18,2,Ana Trujillo Emparedados y helados,70,Outback Lager,5,15,75
+10309,1996-09-19,37,Hungry Owl All-Night Grocers,4,Chef Anton's Cajun Seasoning,20,22,440
+10309,1996-09-19,37,Hungry Owl All-Night Grocers,6,Grandma's Boysenberry Spread,30,25,750
+10309,1996-09-19,37,Hungry Owl All-Night Grocers,42,Singaporean Hokkien Fried Mee,2,14,28
+10309,1996-09-19,37,Hungry Owl All-Night Grocers,43,Ipoh Coffee,20,46,920
+10309,1996-09-19,37,Hungry Owl All-Night Grocers,71,Fløtemysost,3,21.5,64.5
+10310,1996-09-20,77,The Big Cheese,16,Pavlova,10,17.45,174.5
+10310,1996-09-20,77,The Big Cheese,62,Tarte au sucre,5,49.3,246.5
+10311,1996-09-20,18,Du monde entier,42,Singaporean Hokkien Fried Mee,6,14,84
+10311,1996-09-20,18,Du monde entier,69,Gudbrandsdalsost,7,36,252
+10312,1996-09-23,86,Die Wandernde Kuh,28,Rössle Sauerkraut,4,45.6,182.4
+10312,1996-09-23,86,Die Wandernde Kuh,43,Ipoh Coffee,24,46,1104
+10312,1996-09-23,86,Die Wandernde Kuh,53,Perth Pasties,20,32.8,656.0
+10312,1996-09-23,86,Die Wandernde Kuh,75,Rhönbräu Klosterbier,10,7.75,77.5
+10313,1996-09-24,63,QUICK-Stop,36,Inlagd Sill,12,19,228
+10314,1996-09-25,65,Rattlesnake Canyon Grocery,32,Mascarpone Fabioli,40,32,1280
+10314,1996-09-25,65,Rattlesnake Canyon Grocery,58,Escargots de Bourgogne,30,13.25,397.5
+10314,1996-09-25,65,Rattlesnake Canyon Grocery,62,Tarte au sucre,25,49.3,1232.5
+10315,1996-09-26,38,Island Trading,34,Sasquatch Ale,14,14,196
+10315,1996-09-26,38,Island Trading,70,Outback Lager,30,15,450
+10316,1996-09-27,65,Rattlesnake Canyon Grocery,41,Jack's New England Clam Chowder,10,9.65,96.5
+10316,1996-09-27,65,Rattlesnake Canyon Grocery,62,Tarte au sucre,70,49.3,3451.0
+10317,1996-09-30,48,Lonesome Pine Restaurant,1,Chais,20,18,360
+10318,1996-10-01,38,Island Trading,41,Jack's New England Clam Chowder,20,9.65,193.0
+10318,1996-10-01,38,Island Trading,76,Lakkalikööri,6,18,108
+10319,1996-10-02,80,Tortuga Restaurante,17,Alice Mutton,8,39,312
+10319,1996-10-02,80,Tortuga Restaurante,28,Rössle Sauerkraut,14,45.6,638.4
+10319,1996-10-02,80,Tortuga Restaurante,76,Lakkalikööri,30,18,540
+10320,1996-10-03,87,Wartian Herkku,71,Fløtemysost,30,21.5,645.0
+10321,1996-10-03,38,Island Trading,35,Steeleye Stout,10,18,180
+10322,1996-10-04,58,Pericles Comidas clásicas,52,Filo Mix,20,7,140
+10323,1996-10-07,39,Königlich Essen,15,Genen Shouyu,5,15.5,77.5
+10323,1996-10-07,39,Königlich Essen,25,NuNuCa Nuß-Nougat-Creme,4,14,56
+10323,1996-10-07,39,Königlich Essen,39,Chartreuse verte,4,18,72
+10324,1996-10-08,71,Save-a-lot Markets,16,Pavlova,21,17.45,366.45
+10324,1996-10-08,71,Save-a-lot Markets,35,Steeleye Stout,70,18,1260
+10324,1996-10-08,71,Save-a-lot Markets,46,Spegesild,30,12,360
+10324,1996-10-08,71,Save-a-lot Markets,59,Raclette Courdavault,40,55,2200
+10324,1996-10-08,71,Save-a-lot Markets,63,Vegie-spread,80,43.9,3512.0
+10325,1996-10-09,39,Königlich Essen,6,Grandma's Boysenberry Spread,6,25,150
+10325,1996-10-09,39,Königlich Essen,13,Konbu,12,6,72
+10325,1996-10-09,39,Königlich Essen,14,Tofu,9,23.25,209.25
+10325,1996-10-09,39,Königlich Essen,31,Gorgonzola Telino,4,12.5,50.0
+10325,1996-10-09,39,Königlich Essen,72,Mozzarella di Giovanni,40,34.8,1392.0
+10326,1996-10-10,8,Bólido Comidas preparadas,4,Chef Anton's Cajun Seasoning,24,22,528
+10326,1996-10-10,8,Bólido Comidas preparadas,57,Ravioli Angelo,16,19.5,312.0
+10326,1996-10-10,8,Bólido Comidas preparadas,75,Rhönbräu Klosterbier,50,7.75,387.5
+10327,1996-10-11,24,Folk och fä HB,2,Chang,25,19,475
+10327,1996-10-11,24,Folk och fä HB,11,Queso Cabrales,50,21,1050
+10327,1996-10-11,24,Folk och fä HB,30,Nord-Ost Matjeshering,35,25.89,906.15
+10327,1996-10-11,24,Folk och fä HB,58,Escargots de Bourgogne,30,13.25,397.5
+10328,1996-10-14,28,Furia Bacalhau e Frutos do Mar,59,Raclette Courdavault,9,55,495
+10328,1996-10-14,28,Furia Bacalhau e Frutos do Mar,65,Louisiana Fiery Hot Pepper Sauce,40,21.05,842.0
+10328,1996-10-14,28,Furia Bacalhau e Frutos do Mar,68,Scottish Longbreads,10,12.5,125.0
+10329,1996-10-15,75,Split Rail Beer & Ale,19,Teatime Chocolate Biscuits,10,9.2,92.0
+10329,1996-10-15,75,Split Rail Beer & Ale,30,Nord-Ost Matjeshering,8,25.89,207.12
+10329,1996-10-15,75,Split Rail Beer & Ale,38,Côte de Blaye,20,263.5,5270.0
+10329,1996-10-15,75,Split Rail Beer & Ale,56,Gnocchi di nonna Alice,12,38,456
+10330,1996-10-16,46,LILA-Supermercado,26,Gumbär Gummibärchen,50,31.23,1561.5
+10330,1996-10-16,46,LILA-Supermercado,72,Mozzarella di Giovanni,25,34.8,870.0
+10331,1996-10-16,9,Bon app'',54,Tourtière,15,7.45,111.75
+10332,1996-10-17,51,Mère Paillarde,18,Carnarvon Tigers,40,62.5,2500.0
+10332,1996-10-17,51,Mère Paillarde,42,Singaporean Hokkien Fried Mee,10,14,140
+10332,1996-10-17,51,Mère Paillarde,47,Zaanse koeken,16,9.5,152.0
+10333,1996-10-18,87,Wartian Herkku,14,Tofu,10,23.25,232.5
+10333,1996-10-18,87,Wartian Herkku,21,Sir Rodney's Scones,10,10,100
+10333,1996-10-18,87,Wartian Herkku,71,Fløtemysost,40,21.5,860.0
+10334,1996-10-21,84,Victuailles en stock,52,Filo Mix,8,7,56
+10334,1996-10-21,84,Victuailles en stock,68,Scottish Longbreads,10,12.5,125.0
+10335,1996-10-22,37,Hungry Owl All-Night Grocers,2,Chang,7,19,133
+10335,1996-10-22,37,Hungry Owl All-Night Grocers,31,Gorgonzola Telino,25,12.5,312.5
+10335,1996-10-22,37,Hungry Owl All-Night Grocers,32,Mascarpone Fabioli,6,32,192
+10335,1996-10-22,37,Hungry Owl All-Night Grocers,51,Manjimup Dried Apples,48,53,2544
+10336,1996-10-23,60,Princesa Isabel Vinhoss,4,Chef Anton's Cajun Seasoning,18,22,396
+10337,1996-10-24,25,Frankenversand,23,Tunnbröd,40,9,360
+10337,1996-10-24,25,Frankenversand,26,Gumbär Gummibärchen,24,31.23,749.52
+10337,1996-10-24,25,Frankenversand,36,Inlagd Sill,20,19,380
+10337,1996-10-24,25,Frankenversand,37,Gravad lax,28,26,728
+10337,1996-10-24,25,Frankenversand,72,Mozzarella di Giovanni,25,34.8,870.0
+10338,1996-10-25,55,Old World Delicatessen,17,Alice Mutton,20,39,780
+10338,1996-10-25,55,Old World Delicatessen,30,Nord-Ost Matjeshering,15,25.89,388.35
+10339,1996-10-28,51,Mère Paillarde,4,Chef Anton's Cajun Seasoning,10,22,220
+10339,1996-10-28,51,Mère Paillarde,17,Alice Mutton,70,39,2730
+10339,1996-10-28,51,Mère Paillarde,62,Tarte au sucre,28,49.3,1380.4
+10340,1996-10-29,9,Bon app'',18,Carnarvon Tigers,20,62.5,1250.0
+10340,1996-10-29,9,Bon app'',41,Jack's New England Clam Chowder,12,9.65,115.8
+10340,1996-10-29,9,Bon app'',43,Ipoh Coffee,40,46,1840
+10341,1996-10-29,73,Simons bistro,33,Geitost,8,2.5,20.0
+10341,1996-10-29,73,Simons bistro,59,Raclette Courdavault,9,55,495
+10342,1996-10-30,25,Frankenversand,2,Chang,24,19,456
+10342,1996-10-30,25,Frankenversand,31,Gorgonzola Telino,56,12.5,700.0
+10342,1996-10-30,25,Frankenversand,36,Inlagd Sill,40,19,760
+10342,1996-10-30,25,Frankenversand,55,Pâté chinois,40,24,960
+10343,1996-10-31,44,Lehmanns Marktstand,64,Wimmers gute Semmelknödel,50,33.25,1662.5
+10343,1996-10-31,44,Lehmanns Marktstand,68,Scottish Longbreads,4,12.5,50.0
+10343,1996-10-31,44,Lehmanns Marktstand,76,Lakkalikööri,15,18,270
+10344,1996-11-01,89,White Clover Markets,4,Chef Anton's Cajun Seasoning,35,22,770
+10344,1996-11-01,89,White Clover Markets,8,Northwoods Cranberry Sauce,70,40,2800
+10345,1996-11-04,63,QUICK-Stop,8,Northwoods Cranberry Sauce,70,40,2800
+10345,1996-11-04,63,QUICK-Stop,19,Teatime Chocolate Biscuits,80,9.2,736.0
+10345,1996-11-04,63,QUICK-Stop,42,Singaporean Hokkien Fried Mee,9,14,126
+10346,1996-11-05,65,Rattlesnake Canyon Grocery,17,Alice Mutton,36,39,1404
+10346,1996-11-05,65,Rattlesnake Canyon Grocery,56,Gnocchi di nonna Alice,20,38,760
+10347,1996-11-06,21,Familia Arquibaldo,25,NuNuCa Nuß-Nougat-Creme,10,14,140
+10347,1996-11-06,21,Familia Arquibaldo,39,Chartreuse verte,50,18,900
+10347,1996-11-06,21,Familia Arquibaldo,40,Boston Crab Meat,4,18.4,73.6
+10347,1996-11-06,21,Familia Arquibaldo,75,Rhönbräu Klosterbier,6,7.75,46.5
+10348,1996-11-07,86,Die Wandernde Kuh,1,Chais,15,18,270
+10348,1996-11-07,86,Die Wandernde Kuh,23,Tunnbröd,25,9,225
+10349,1996-11-08,75,Split Rail Beer & Ale,54,Tourtière,24,7.45,178.8
+10350,1996-11-11,41,La maison d''Asie,50,Valkoinen suklaa,15,16.25,243.75
+10350,1996-11-11,41,La maison d''Asie,69,Gudbrandsdalsost,18,36,648
+10351,1996-11-11,20,Ernst Handel,38,Côte de Blaye,20,263.5,5270.0
+10351,1996-11-11,20,Ernst Handel,41,Jack's New England Clam Chowder,13,9.65,125.45
+10351,1996-11-11,20,Ernst Handel,44,Gula Malacca,77,19.45,1497.65
+10351,1996-11-11,20,Ernst Handel,65,Louisiana Fiery Hot Pepper Sauce,10,21.05,210.5
+10352,1996-11-12,28,Furia Bacalhau e Frutos do Mar,24,Guaraná Fantástica,10,4.5,45.0
+10352,1996-11-12,28,Furia Bacalhau e Frutos do Mar,54,Tourtière,20,7.45,149.0
+10353,1996-11-13,59,Piccolo und mehr,11,Queso Cabrales,12,21,252
+10353,1996-11-13,59,Piccolo und mehr,38,Côte de Blaye,50,263.5,13175.0
+10354,1996-11-14,58,Pericles Comidas clásicas,1,Chais,12,18,216
+10354,1996-11-14,58,Pericles Comidas clásicas,29,Thüringer Rostbratwurst,4,123.79,495.16
+10355,1996-11-15,4,Around the Horn,24,Guaraná Fantástica,25,4.5,112.5
+10355,1996-11-15,4,Around the Horn,57,Ravioli Angelo,25,19.5,487.5
+10356,1996-11-18,86,Die Wandernde Kuh,31,Gorgonzola Telino,30,12.5,375.0
+10356,1996-11-18,86,Die Wandernde Kuh,55,Pâté chinois,12,24,288
+10356,1996-11-18,86,Die Wandernde Kuh,69,Gudbrandsdalsost,20,36,720
+10357,1996-11-19,46,LILA-Supermercado,10,Ikura,30,31,930
+10357,1996-11-19,46,LILA-Supermercado,26,Gumbär Gummibärchen,16,31.23,499.68
+10357,1996-11-19,46,LILA-Supermercado,60,Camembert Pierrot,8,34,272
+10358,1996-11-20,41,La maison d''Asie,24,Guaraná Fantástica,10,4.5,45.0
+10358,1996-11-20,41,La maison d''Asie,34,Sasquatch Ale,10,14,140
+10358,1996-11-20,41,La maison d''Asie,36,Inlagd Sill,20,19,380
+10359,1996-11-21,72,Seven Seas Imports,16,Pavlova,56,17.45,977.2
+10359,1996-11-21,72,Seven Seas Imports,31,Gorgonzola Telino,70,12.5,875.0
+10359,1996-11-21,72,Seven Seas Imports,60,Camembert Pierrot,80,34,2720
+10360,1996-11-22,7,Blondel père et fils,28,Rössle Sauerkraut,30,45.6,1368.0
+10360,1996-11-22,7,Blondel père et fils,29,Thüringer Rostbratwurst,35,123.79,4332.65
+10360,1996-11-22,7,Blondel père et fils,38,Côte de Blaye,10,263.5,2635.0
+10360,1996-11-22,7,Blondel père et fils,49,Maxilaku,35,20,700
+10360,1996-11-22,7,Blondel père et fils,54,Tourtière,28,7.45,208.6
+10361,1996-11-22,63,QUICK-Stop,39,Chartreuse verte,54,18,972
+10361,1996-11-22,63,QUICK-Stop,60,Camembert Pierrot,55,34,1870
+10362,1996-11-25,9,Bon app'',25,NuNuCa Nuß-Nougat-Creme,50,14,700
+10362,1996-11-25,9,Bon app'',51,Manjimup Dried Apples,20,53,1060
+10362,1996-11-25,9,Bon app'',54,Tourtière,24,7.45,178.8
+10363,1996-11-26,17,Drachenblut Delikatessend,31,Gorgonzola Telino,20,12.5,250.0
+10363,1996-11-26,17,Drachenblut Delikatessend,75,Rhönbräu Klosterbier,12,7.75,93.0
+10363,1996-11-26,17,Drachenblut Delikatessend,76,Lakkalikööri,12,18,216
+10364,1996-11-26,19,Eastern Connection,69,Gudbrandsdalsost,30,36,1080
+10364,1996-11-26,19,Eastern Connection,71,Fløtemysost,5,21.5,107.5
+10365,1996-11-27,3,Antonio Moreno Taquería,11,Queso Cabrales,24,21,504
+10366,1996-11-28,29,Galería del gastrónomo,65,Louisiana Fiery Hot Pepper Sauce,5,21.05,105.25
+10366,1996-11-28,29,Galería del gastrónomo,77,Original Frankfurter grüne Soße,5,13,65
+10367,1996-11-28,83,Vaffeljernet,34,Sasquatch Ale,36,14,504
+10367,1996-11-28,83,Vaffeljernet,54,Tourtière,18,7.45,134.1
+10367,1996-11-28,83,Vaffeljernet,65,Louisiana Fiery Hot Pepper Sauce,15,21.05,315.75
+10367,1996-11-28,83,Vaffeljernet,77,Original Frankfurter grüne Soße,7,13,91
+10368,1996-11-29,20,Ernst Handel,21,Sir Rodney's Scones,5,10,50
+10368,1996-11-29,20,Ernst Handel,28,Rössle Sauerkraut,13,45.6,592.8
+10368,1996-11-29,20,Ernst Handel,57,Ravioli Angelo,25,19.5,487.5
+10368,1996-11-29,20,Ernst Handel,64,Wimmers gute Semmelknödel,35,33.25,1163.75
+10369,1996-12-02,75,Split Rail Beer & Ale,29,Thüringer Rostbratwurst,20,123.79,2475.8
+10369,1996-12-02,75,Split Rail Beer & Ale,56,Gnocchi di nonna Alice,18,38,684
+10370,1996-12-03,14,Chop-suey Chinese,1,Chais,15,18,270
+10370,1996-12-03,14,Chop-suey Chinese,64,Wimmers gute Semmelknödel,30,33.25,997.5
+10370,1996-12-03,14,Chop-suey Chinese,74,Longlife Tofu,20,10,200
+10371,1996-12-03,41,La maison d''Asie,36,Inlagd Sill,6,19,114
+10372,1996-12-04,62,Queen Cozinha,20,Sir Rodney's Marmalade,12,81,972
+10372,1996-12-04,62,Queen Cozinha,38,Côte de Blaye,40,263.5,10540.0
+10372,1996-12-04,62,Queen Cozinha,60,Camembert Pierrot,70,34,2380
+10372,1996-12-04,62,Queen Cozinha,72,Mozzarella di Giovanni,42,34.8,1461.6
+10373,1996-12-05,37,Hungry Owl All-Night Grocers,58,Escargots de Bourgogne,80,13.25,1060.0
+10373,1996-12-05,37,Hungry Owl All-Night Grocers,71,Fløtemysost,50,21.5,1075.0
+10374,1996-12-05,91,Wolski,31,Gorgonzola Telino,30,12.5,375.0
+10374,1996-12-05,91,Wolski,58,Escargots de Bourgogne,15,13.25,198.75
+10375,1996-12-06,36,Hungry Coyote Import Store,14,Tofu,15,23.25,348.75
+10375,1996-12-06,36,Hungry Coyote Import Store,54,Tourtière,10,7.45,74.5
+10376,1996-12-09,51,Mère Paillarde,31,Gorgonzola Telino,42,12.5,525.0
+10377,1996-12-09,72,Seven Seas Imports,28,Rössle Sauerkraut,20,45.6,912.0
+10377,1996-12-09,72,Seven Seas Imports,39,Chartreuse verte,20,18,360
+10378,1996-12-10,24,Folk och fä HB,71,Fløtemysost,6,21.5,129.0
+10379,1996-12-11,61,Que Delícia,41,Jack's New England Clam Chowder,8,9.65,77.2
+10379,1996-12-11,61,Que Delícia,63,Vegie-spread,16,43.9,702.4
+10379,1996-12-11,61,Que Delícia,65,Louisiana Fiery Hot Pepper Sauce,20,21.05,421.0
+10380,1996-12-12,37,Hungry Owl All-Night Grocers,30,Nord-Ost Matjeshering,18,25.89,466.02
+10380,1996-12-12,37,Hungry Owl All-Night Grocers,53,Perth Pasties,20,32.8,656.0
+10380,1996-12-12,37,Hungry Owl All-Night Grocers,60,Camembert Pierrot,6,34,204
+10380,1996-12-12,37,Hungry Owl All-Night Grocers,70,Outback Lager,30,15,450
+10381,1996-12-12,46,LILA-Supermercado,74,Longlife Tofu,14,10,140
+10382,1996-12-13,20,Ernst Handel,5,Chef Anton's Gumbo Mix,32,21.35,683.2
+10382,1996-12-13,20,Ernst Handel,18,Carnarvon Tigers,9,62.5,562.5
+10382,1996-12-13,20,Ernst Handel,29,Thüringer Rostbratwurst,14,123.79,1733.06
+10382,1996-12-13,20,Ernst Handel,33,Geitost,60,2.5,150.0
+10382,1996-12-13,20,Ernst Handel,74,Longlife Tofu,50,10,500
+10383,1996-12-16,4,Around the Horn,13,Konbu,20,6,120
+10383,1996-12-16,4,Around the Horn,50,Valkoinen suklaa,15,16.25,243.75
+10383,1996-12-16,4,Around the Horn,56,Gnocchi di nonna Alice,20,38,760
+10384,1996-12-16,5,Berglunds snabbköp,20,Sir Rodney's Marmalade,28,81,2268
+10384,1996-12-16,5,Berglunds snabbköp,60,Camembert Pierrot,15,34,510
+10385,1996-12-17,75,Split Rail Beer & Ale,7,Uncle Bob's Organic Dried Pears,10,30,300
+10385,1996-12-17,75,Split Rail Beer & Ale,60,Camembert Pierrot,20,34,680
+10385,1996-12-17,75,Split Rail Beer & Ale,68,Scottish Longbreads,8,12.5,100.0
+10386,1996-12-18,21,Familia Arquibaldo,24,Guaraná Fantástica,15,4.5,67.5
+10386,1996-12-18,21,Familia Arquibaldo,34,Sasquatch Ale,10,14,140
+10387,1996-12-18,70,Santé Gourmet,24,Guaraná Fantástica,15,4.5,67.5
+10387,1996-12-18,70,Santé Gourmet,28,Rössle Sauerkraut,6,45.6,273.6
+10387,1996-12-18,70,Santé Gourmet,59,Raclette Courdavault,12,55,660
+10387,1996-12-18,70,Santé Gourmet,71,Fløtemysost,15,21.5,322.5
+10388,1996-12-19,72,Seven Seas Imports,45,Røgede sild,15,9.5,142.5
+10388,1996-12-19,72,Seven Seas Imports,52,Filo Mix,20,7,140
+10388,1996-12-19,72,Seven Seas Imports,53,Perth Pasties,40,32.8,1312.0
+10389,1996-12-20,10,Bottom-Dollar Marketse,10,Ikura,16,31,496
+10389,1996-12-20,10,Bottom-Dollar Marketse,55,Pâté chinois,15,24,360
+10389,1996-12-20,10,Bottom-Dollar Marketse,62,Tarte au sucre,20,49.3,986.0
+10389,1996-12-20,10,Bottom-Dollar Marketse,70,Outback Lager,30,15,450
+10390,1996-12-23,20,Ernst Handel,31,Gorgonzola Telino,60,12.5,750.0
+10390,1996-12-23,20,Ernst Handel,35,Steeleye Stout,40,18,720
+10390,1996-12-23,20,Ernst Handel,46,Spegesild,45,12,540
+10390,1996-12-23,20,Ernst Handel,72,Mozzarella di Giovanni,24,34.8,835.2
+10391,1996-12-23,17,Drachenblut Delikatessend,13,Konbu,18,6,108
+10392,1996-12-24,59,Piccolo und mehr,69,Gudbrandsdalsost,50,36,1800
+10393,1996-12-25,71,Save-a-lot Markets,2,Chang,25,19,475
+10393,1996-12-25,71,Save-a-lot Markets,14,Tofu,42,23.25,976.5
+10393,1996-12-25,71,Save-a-lot Markets,25,NuNuCa Nuß-Nougat-Creme,7,14,98
+10393,1996-12-25,71,Save-a-lot Markets,26,Gumbär Gummibärchen,70,31.23,2186.1
+10393,1996-12-25,71,Save-a-lot Markets,31,Gorgonzola Telino,32,12.5,400.0
+10394,1996-12-25,36,Hungry Coyote Import Store,13,Konbu,10,6,60
+10394,1996-12-25,36,Hungry Coyote Import Store,62,Tarte au sucre,10,49.3,493.0
+10395,1996-12-26,35,HILARIÓN-Abastos,46,Spegesild,28,12,336
+10395,1996-12-26,35,HILARIÓN-Abastos,53,Perth Pasties,70,32.8,2296.0
+10395,1996-12-26,35,HILARIÓN-Abastos,69,Gudbrandsdalsost,8,36,288
+10396,1996-12-27,25,Frankenversand,23,Tunnbröd,40,9,360
+10396,1996-12-27,25,Frankenversand,71,Fløtemysost,60,21.5,1290.0
+10396,1996-12-27,25,Frankenversand,72,Mozzarella di Giovanni,21,34.8,730.8
+10397,1996-12-27,60,Princesa Isabel Vinhoss,21,Sir Rodney's Scones,10,10,100
+10397,1996-12-27,60,Princesa Isabel Vinhoss,51,Manjimup Dried Apples,18,53,954
+10398,1996-12-30,71,Save-a-lot Markets,35,Steeleye Stout,30,18,540
+10398,1996-12-30,71,Save-a-lot Markets,55,Pâté chinois,120,24,2880
+10399,1996-12-31,83,Vaffeljernet,68,Scottish Longbreads,60,12.5,750.0
+10399,1996-12-31,83,Vaffeljernet,71,Fløtemysost,30,21.5,645.0
+10399,1996-12-31,83,Vaffeljernet,76,Lakkalikööri,35,18,630
+10399,1996-12-31,83,Vaffeljernet,77,Original Frankfurter grüne Soße,14,13,182
+10400,1997-01-01,19,Eastern Connection,29,Thüringer Rostbratwurst,21,123.79,2599.59
+10400,1997-01-01,19,Eastern Connection,35,Steeleye Stout,35,18,630
+10400,1997-01-01,19,Eastern Connection,49,Maxilaku,30,20,600
+10401,1997-01-01,65,Rattlesnake Canyon Grocery,30,Nord-Ost Matjeshering,18,25.89,466.02
+10401,1997-01-01,65,Rattlesnake Canyon Grocery,56,Gnocchi di nonna Alice,70,38,2660
+10401,1997-01-01,65,Rattlesnake Canyon Grocery,65,Louisiana Fiery Hot Pepper Sauce,20,21.05,421.0
+10401,1997-01-01,65,Rattlesnake Canyon Grocery,71,Fløtemysost,60,21.5,1290.0
+10402,1997-01-02,20,Ernst Handel,23,Tunnbröd,60,9,540
+10402,1997-01-02,20,Ernst Handel,63,Vegie-spread,65,43.9,2853.5
+10403,1997-01-03,20,Ernst Handel,16,Pavlova,21,17.45,366.45
+10403,1997-01-03,20,Ernst Handel,48,Chocolade,70,12.75,892.5
+10404,1997-01-03,49,Magazzini Alimentari Riuniti,26,Gumbär Gummibärchen,30,31.23,936.9
+10404,1997-01-03,49,Magazzini Alimentari Riuniti,42,Singaporean Hokkien Fried Mee,40,14,560
+10404,1997-01-03,49,Magazzini Alimentari Riuniti,49,Maxilaku,30,20,600
+10405,1997-01-06,47,LINO-Delicateses,3,Aniseed Syrup,50,10,500
+10406,1997-01-07,62,Queen Cozinha,1,Chais,10,18,180
+10406,1997-01-07,62,Queen Cozinha,21,Sir Rodney's Scones,30,10,300
+10406,1997-01-07,62,Queen Cozinha,28,Rössle Sauerkraut,42,45.6,1915.2
+10406,1997-01-07,62,Queen Cozinha,36,Inlagd Sill,5,19,95
+10406,1997-01-07,62,Queen Cozinha,40,Boston Crab Meat,2,18.4,36.8
+10407,1997-01-07,56,Ottilies Käseladen,11,Queso Cabrales,30,21,630
+10407,1997-01-07,56,Ottilies Käseladen,69,Gudbrandsdalsost,15,36,540
+10407,1997-01-07,56,Ottilies Käseladen,71,Fløtemysost,15,21.5,322.5
+10408,1997-01-08,23,Folies gourmandes,37,Gravad lax,10,26,260
+10408,1997-01-08,23,Folies gourmandes,54,Tourtière,6,7.45,44.7
+10408,1997-01-08,23,Folies gourmandes,62,Tarte au sucre,35,49.3,1725.5
+10409,1997-01-09,54,Océano Atlántico Ltda.,14,Tofu,12,23.25,279.0
+10409,1997-01-09,54,Océano Atlántico Ltda.,21,Sir Rodney's Scones,12,10,120
+10410,1997-01-10,10,Bottom-Dollar Marketse,33,Geitost,49,2.5,122.5
+10410,1997-01-10,10,Bottom-Dollar Marketse,59,Raclette Courdavault,16,55,880
+10411,1997-01-10,10,Bottom-Dollar Marketse,41,Jack's New England Clam Chowder,25,9.65,241.25
+10411,1997-01-10,10,Bottom-Dollar Marketse,44,Gula Malacca,40,19.45,778.0
+10411,1997-01-10,10,Bottom-Dollar Marketse,59,Raclette Courdavault,9,55,495
+10412,1997-01-13,87,Wartian Herkku,14,Tofu,20,23.25,465.0
+10413,1997-01-14,41,La maison d''Asie,1,Chais,24,18,432
+10413,1997-01-14,41,La maison d''Asie,62,Tarte au sucre,40,49.3,1972.0
+10413,1997-01-14,41,La maison d''Asie,76,Lakkalikööri,14,18,252
+10414,1997-01-14,21,Familia Arquibaldo,19,Teatime Chocolate Biscuits,18,9.2,165.6
+10414,1997-01-14,21,Familia Arquibaldo,33,Geitost,50,2.5,125.0
+10415,1997-01-15,36,Hungry Coyote Import Store,17,Alice Mutton,2,39,78
+10415,1997-01-15,36,Hungry Coyote Import Store,33,Geitost,20,2.5,50.0
+10416,1997-01-16,87,Wartian Herkku,19,Teatime Chocolate Biscuits,20,9.2,184.0
+10416,1997-01-16,87,Wartian Herkku,53,Perth Pasties,10,32.8,328.0
+10416,1997-01-16,87,Wartian Herkku,57,Ravioli Angelo,20,19.5,390.0
+10417,1997-01-16,73,Simons bistro,38,Côte de Blaye,50,263.5,13175.0
+10417,1997-01-16,73,Simons bistro,46,Spegesild,2,12,24
+10417,1997-01-16,73,Simons bistro,68,Scottish Longbreads,36,12.5,450.0
+10417,1997-01-16,73,Simons bistro,77,Original Frankfurter grüne Soße,35,13,455
+10418,1997-01-17,63,QUICK-Stop,2,Chang,60,19,1140
+10418,1997-01-17,63,QUICK-Stop,47,Zaanse koeken,55,9.5,522.5
+10418,1997-01-17,63,QUICK-Stop,61,Sirop d'érable,16,28.5,456.0
+10418,1997-01-17,63,QUICK-Stop,74,Longlife Tofu,15,10,150
+10419,1997-01-20,68,Richter Supermarkt,60,Camembert Pierrot,60,34,2040
+10419,1997-01-20,68,Richter Supermarkt,69,Gudbrandsdalsost,20,36,720
+10420,1997-01-21,88,Wellington Importadora,9,Mishi Kobe Niku,20,97,1940
+10420,1997-01-21,88,Wellington Importadora,13,Konbu,2,6,12
+10420,1997-01-21,88,Wellington Importadora,70,Outback Lager,8,15,120
+10420,1997-01-21,88,Wellington Importadora,73,Röd Kaviar,20,15,300
+10421,1997-01-21,61,Que Delícia,19,Teatime Chocolate Biscuits,4,9.2,36.8
+10421,1997-01-21,61,Que Delícia,26,Gumbär Gummibärchen,30,31.23,936.9
+10421,1997-01-21,61,Que Delícia,53,Perth Pasties,15,32.8,492.0
+10421,1997-01-21,61,Que Delícia,77,Original Frankfurter grüne Soße,10,13,130
+10422,1997-01-22,27,Franchi S.p.A.,26,Gumbär Gummibärchen,2,31.23,62.46
+10423,1997-01-23,31,Gourmet Lanchonetes,31,Gorgonzola Telino,14,12.5,175.0
+10423,1997-01-23,31,Gourmet Lanchonetes,59,Raclette Courdavault,20,55,1100
+10424,1997-01-23,51,Mère Paillarde,35,Steeleye Stout,60,18,1080
+10424,1997-01-23,51,Mère Paillarde,38,Côte de Blaye,49,263.5,12911.5
+10424,1997-01-23,51,Mère Paillarde,68,Scottish Longbreads,30,12.5,375.0
+10425,1997-01-24,41,La maison d''Asie,55,Pâté chinois,10,24,240
+10425,1997-01-24,41,La maison d''Asie,76,Lakkalikööri,20,18,360
+10426,1997-01-27,29,Galería del gastrónomo,56,Gnocchi di nonna Alice,5,38,190
+10426,1997-01-27,29,Galería del gastrónomo,64,Wimmers gute Semmelknödel,7,33.25,232.75
+10427,1997-01-27,59,Piccolo und mehr,14,Tofu,35,23.25,813.75
+10428,1997-01-28,66,Reggiani Caseifici,46,Spegesild,20,12,240
+10429,1997-01-29,37,Hungry Owl All-Night Grocers,50,Valkoinen suklaa,40,16.25,650.0
+10429,1997-01-29,37,Hungry Owl All-Night Grocers,63,Vegie-spread,35,43.9,1536.5
+10430,1997-01-30,20,Ernst Handel,17,Alice Mutton,45,39,1755
+10430,1997-01-30,20,Ernst Handel,21,Sir Rodney's Scones,50,10,500
+10430,1997-01-30,20,Ernst Handel,56,Gnocchi di nonna Alice,30,38,1140
+10430,1997-01-30,20,Ernst Handel,59,Raclette Courdavault,70,55,3850
+10431,1997-01-30,10,Bottom-Dollar Marketse,17,Alice Mutton,50,39,1950
+10431,1997-01-30,10,Bottom-Dollar Marketse,40,Boston Crab Meat,50,18.4,920.0
+10431,1997-01-30,10,Bottom-Dollar Marketse,47,Zaanse koeken,30,9.5,285.0
+10432,1997-01-31,75,Split Rail Beer & Ale,26,Gumbär Gummibärchen,10,31.23,312.3
+10432,1997-01-31,75,Split Rail Beer & Ale,54,Tourtière,40,7.45,298.0
+10433,1997-02-03,60,Princesa Isabel Vinhoss,56,Gnocchi di nonna Alice,28,38,1064
+10434,1997-02-03,24,Folk och fä HB,11,Queso Cabrales,6,21,126
+10434,1997-02-03,24,Folk och fä HB,76,Lakkalikööri,18,18,324
+10435,1997-02-04,16,Consolidated Holdings,2,Chang,10,19,190
+10435,1997-02-04,16,Consolidated Holdings,22,Gustaf's Knäckebröd,12,21,252
+10435,1997-02-04,16,Consolidated Holdings,72,Mozzarella di Giovanni,10,34.8,348.0
+10436,1997-02-05,7,Blondel père et fils,46,Spegesild,5,12,60
+10436,1997-02-05,7,Blondel père et fils,56,Gnocchi di nonna Alice,40,38,1520
+10436,1997-02-05,7,Blondel père et fils,64,Wimmers gute Semmelknödel,30,33.25,997.5
+10436,1997-02-05,7,Blondel père et fils,75,Rhönbräu Klosterbier,24,7.75,186.0
+10437,1997-02-05,87,Wartian Herkku,53,Perth Pasties,15,32.8,492.0
+10438,1997-02-06,79,Toms Spezialitäten,19,Teatime Chocolate Biscuits,15,9.2,138.0
+10438,1997-02-06,79,Toms Spezialitäten,34,Sasquatch Ale,20,14,280
+10438,1997-02-06,79,Toms Spezialitäten,57,Ravioli Angelo,15,19.5,292.5
+10439,1997-02-07,51,Mère Paillarde,12,Queso Manchego La Pastora,15,38,570
+10439,1997-02-07,51,Mère Paillarde,16,Pavlova,16,17.45,279.2
+10439,1997-02-07,51,Mère Paillarde,64,Wimmers gute Semmelknödel,6,33.25,199.5
+10439,1997-02-07,51,Mère Paillarde,74,Longlife Tofu,30,10,300
+10440,1997-02-10,71,Save-a-lot Markets,2,Chang,45,19,855
+10440,1997-02-10,71,Save-a-lot Markets,16,Pavlova,49,17.45,855.05
+10440,1997-02-10,71,Save-a-lot Markets,29,Thüringer Rostbratwurst,24,123.79,2970.96
+10440,1997-02-10,71,Save-a-lot Markets,61,Sirop d'érable,90,28.5,2565.0
+10441,1997-02-10,55,Old World Delicatessen,27,Schoggi Schokolade,50,43.9,2195.0
+10442,1997-02-11,20,Ernst Handel,11,Queso Cabrales,30,21,630
+10442,1997-02-11,20,Ernst Handel,54,Tourtière,80,7.45,596.0
+10442,1997-02-11,20,Ernst Handel,66,Louisiana Hot Spiced Okra,60,17,1020
+10443,1997-02-12,66,Reggiani Caseifici,11,Queso Cabrales,6,21,126
+10443,1997-02-12,66,Reggiani Caseifici,28,Rössle Sauerkraut,12,45.6,547.2
