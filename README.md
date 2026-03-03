@@ -158,4 +158,4 @@ Design focus:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](data/powerbi/screenshots/pipeline_dashboard.png)
+![Dashboard](screenshots/pipeline_dashboard.png)
