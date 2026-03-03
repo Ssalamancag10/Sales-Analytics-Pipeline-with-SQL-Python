@@ -158,4 +158,5 @@ Design focus:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshots/pipeline_dashboard.png)
+![Dashboard](Sales-Analytics-Pipeline-with-SQL-Python
+/data/powerbi/screenshots/pipeline_dashboard.png)
