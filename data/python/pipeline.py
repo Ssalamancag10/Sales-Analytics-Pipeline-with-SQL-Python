@@ -3,32 +3,22 @@ import matplotlib.pyplot as plt
 import logging
 import os
 
-# -------------------------
-# Logging
-# -------------------------
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# -------------------------
-# Paths
-# -------------------------
 RAW_CSV = "processed/sales_cleaned.csv"
 DIM_PRODUCT_CSV = "analytics/starschema/DimProduct.csv"
 DIM_CUSTOMER_CSV = "analytics/starschema/DimCustomer.csv"
 DIM_DATE_CSV = "analytics/starschema/DimDate.csv"
 FACT_SALES_CSV = "analytics/starschema/FactSales.csv"
 
-# -------------------------
-# 1️⃣ Load Data
-# -------------------------
+#Load 
 def load_data(path):
     logging.info("Loading raw data...")
     df = pd.read_csv(path)
     logging.info(f"Rows loaded: {len(df)}")
     return df
 
-# -------------------------
-# 2️⃣ Create Dimensions
-# -------------------------
+#  Dimensions
 def create_dimensions(df):
     logging.info("Creating DimProduct...")
     dim_product = df[['ProductID', 'ProductName', 'Price']].drop_duplicates().reset_index(drop=True)
@@ -49,9 +39,7 @@ def create_dimensions(df):
 
     return dim_product, dim_customer, dim_date
 
-# -------------------------
-# 3️⃣ Create Fact Table
-# -------------------------
+#Create Fact Table
 def create_fact_sales(df, dim_date):
     logging.info("Creating FactSales...")
     fact_sales = df.merge(dim_date[['OrderDate','OrderDateID']], on='OrderDate', how='left')
@@ -59,9 +47,7 @@ def create_fact_sales(df, dim_date):
     fact_sales.to_csv(FACT_SALES_CSV, index=False)
     return fact_sales
 
-# -------------------------
-# 4️⃣ Create Dashboard
-# -------------------------
+# Create Dashboard
 def create_dashboard():
     logging.info("Creating dashboard...")
     # Cargar dimensiones y fact
@@ -69,24 +55,20 @@ def create_dashboard():
     dim_customer = pd.read_csv(DIM_CUSTOMER_CSV)
     dim_date = pd.read_csv(DIM_DATE_CSV)
     fact_sales = pd.read_csv(FACT_SALES_CSV)
-
     # Top productos
     sales_by_product = fact_sales.merge(dim_product, on='ProductID', how='left')
     top_products = sales_by_product.groupby('ProductName').agg(total_sales=('LineTotal','sum')).sort_values('total_sales',ascending=False).head(10)
-
     # Top clientes
     sales_by_customer = fact_sales.merge(dim_customer, on='CustomerID', how='left')
     top_customers = sales_by_customer.groupby('CustomerName').agg(total_sales=('LineTotal','sum')).sort_values('total_sales',ascending=False).head(10)
-
     # Ventas mensuales
     sales_with_date = fact_sales.merge(dim_date[['OrderDateID','Year','Month']], on='OrderDateID', how='left')
     monthly_sales = sales_with_date.groupby(['Year','Month']).agg(total_sales=('LineTotal','sum')).reset_index()
     monthly_sales['YearMonth'] = monthly_sales['Year'].astype(str) + '-' + monthly_sales['Month'].astype(str)
-
     # Gráficos
     plt.style.use('ggplot')
     fig, axes = plt.subplots(3,1,figsize=(12,18))
-
+    
     axes[0].barh(top_products.index[::-1], top_products['total_sales'][::-1], color='skyblue')
     axes[0].set_title("Top 10 Productos por Ventas")
     axes[0].set_xlabel("Ventas Totales")
@@ -105,9 +87,7 @@ def create_dashboard():
     plt.show()
     logging.info("Dashboard created successfully!")
 
-# -------------------------
-# 5️⃣ Main
-# -------------------------
+# Main
 def main():
     if not os.path.exists(RAW_CSV):
         logging.error(f"No se encuentra el CSV raw: {RAW_CSV}")
